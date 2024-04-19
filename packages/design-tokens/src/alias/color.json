@@ -40,6 +40,23 @@
         "11": {
           "value": "{color.global.brand.110.value}"
         }
+      },
+      "alert": {
+        "primary": {
+          "value": "{color.global.pink.1.value}"
+        },
+        "success": {
+          "value": "{color.global.pink.2.value}"
+        },
+        "neutral": {
+          "value": "{color.global.pink.3.value}"
+        },
+        "warning": {
+          "value": "{color.global.pink.4.value}"
+        },
+        "danger": {
+          "value": "{color.global.pink.5.value}"
+        }
       }
     }
   }

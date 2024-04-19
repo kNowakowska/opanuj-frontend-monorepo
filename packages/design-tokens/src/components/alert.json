@@ -1,0 +1,29 @@
+{
+  "alert": {
+    "primary": {
+      "color": {
+        "value": "{color.alias.alert.primary.value}"
+      }
+    },
+    "success": {
+      "color": {
+        "value": "{color.alias.alert.success.value}"
+      }
+    },
+    "neutral": {
+      "color": {
+        "value": "{color.alias.alert.neutral.value}"
+      }
+    },
+    "warning": {
+      "color": {
+        "value": "{color.alias.alert.warning.value}"
+      }
+    },
+    "danger": {
+      "color": {
+        "value": "{color.alias.alert.danger.value}"
+      }
+    }
+  }
+}
